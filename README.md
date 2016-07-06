@@ -9,8 +9,8 @@ $cd Node.js-Simple-Chat-Application.git<br>
 $npm install<br>
 $node chatApp.js<br>
 
-To use, navigate to your.ip.address.here:3000
-Ex: 192.168.1.200:3000 in the browser bar
+To use, navigate to your.ip.address.here:8181
+Ex: 192.168.1.200:8181 in the browser bar
 
 To change the port edit the PORT variable in chatApp.js
 
